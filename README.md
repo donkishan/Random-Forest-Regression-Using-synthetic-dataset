@@ -1,1 +1,2 @@
 # Random-Forest-Regression-Using-synthetic-dataset
+This project, created by Kishan H S, demonstrates the application of Random Forest Regression to predict continuous target values using a synthetic dataset. I generated this dataset to simulate real-world regression problems, allowing for a controlled exploration of the capabilities of Random Forest, a powerful ensemble learning technique. The goal of the project is to understand how Random Forest Regression performs in scenarios with various feature complexities and noise levels.
